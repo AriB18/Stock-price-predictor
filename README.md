@@ -55,6 +55,7 @@ A closing price chart for the last year
 **Project Structure**
 
 ├── app.py                      # Streamlit application
+
 ├── README.md                   # Project documentation
 
 **How It Works**
