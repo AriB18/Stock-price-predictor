@@ -2,6 +2,7 @@
 
 This project is a Streamlit based web application that predicts the next closing price of a stock using machine learning models, technical indicators, and news sentiment analysis. It combines financial data from Yahoo Finance with real time sentiment from Yahoo Finance RSS feeds to generate insights and predictions.
 
+
 **Features**
 1. Stock Price Data
 
@@ -39,6 +40,7 @@ Blended prediction
 
 5. Visuals and Insights
 
+
 **The app provides:**
 
 Company summary from Yahoo Finance
@@ -49,7 +51,9 @@ RMSE scores for model performance
 
 A closing price chart for the last year
 
+
 **Project Structure**
+
 ├── app.py                      # Streamlit application
 ├── README.md                   # Project documentation
 
