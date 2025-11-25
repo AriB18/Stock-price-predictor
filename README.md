@@ -39,7 +39,7 @@ Blended prediction
 
 5. Visuals and Insights
 
-The app provides:
+**The app provides:**
 
 Company summary from Yahoo Finance
 
@@ -49,11 +49,11 @@ RMSE scores for model performance
 
 A closing price chart for the last year
 
-Project Structure
+**Project Structure**
 ├── app.py                      # Streamlit application
 ├── README.md                   # Project documentation
 
-How It Works
+**How It Works**
 Data Pipeline
 
 Fetch one year of stock price data.
@@ -78,7 +78,7 @@ View company details, model results, sentiment insights, and price chart.
 
 See the estimated next closing price.
 
-Installation
+**Installation**
 1. Clone the repository
 git clone <your_repo_url>
 cd stock-price-predictor
@@ -87,7 +87,7 @@ cd stock-price-predictor
 pip install -r requirements.txt
 
 
-Required libraries include:
+**Required libraries include:**
 
 streamlit
 
@@ -112,17 +112,17 @@ matplotlib
 3. Run the app
 streamlit run app.py
 
-Requirements
+**Requirements**
 
 Python 3.8 or above is recommended.
 
-Notes
+**Notes**
 
 Predictions are based on historical patterns and sentiment. They are not financial advice.
 
 Yahoo Finance does not guarantee the availability of all stock summaries or data fields.
 
-Future Improvements
+**Future Improvements**
 
 Add LSTM based deep learning models
 
